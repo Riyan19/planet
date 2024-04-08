@@ -168,7 +168,7 @@ https://templatemo.com/tm-541-host-cloud
       <div class="row">
         <div class="col-md-8 offset-md-2">
           <div class="section-heading">
-            <h2>Intenr Plan</h2>
+            <h2>Internet Plan</h2>
             <p>Pilihan variasi kecepatan internet sesuai keinginan dan kebutuhan anda.</p>
           </div>
         </div>
@@ -184,8 +184,8 @@ https://templatemo.com/tm-541-host-cloud
             <ul>
               <li><i class="fa fa-check"></i>Unlimited Bandwidth</li>
               <li><i class="fa fa-check"></i>Tanpa FUP</li>
-              <li><i class="fa fa-check"></i>Fiber Optik</li>
-              <li><i class="fa fa-check"></i>24/7 Fast Support</li>
+              <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
+              <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
             <a href="#" class="main-button">Start Plan</a>
           </div>
