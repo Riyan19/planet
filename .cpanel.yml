@@ -5,8 +5,12 @@ deployment:
     - export DEPLOYPATH=/home/rnetwork/public_html/
     - /bin/cp -R .vscode $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R vendor $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp -R js $DEPLOYPATH
-    /bin/cp index.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp about.html $DEPLOYPATH
+    - /bin/cp contact.html $DEPLOYPATH
+    - /bin/cp services.html $DEPLOYPATH
