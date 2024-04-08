@@ -141,7 +141,7 @@ https://templatemo.com/tm-541-host-cloud
           <div class="service-item">
             <i class="fa fa-database"></i>
             <h4>CCTV Provider</h4>
-            <p>Tingkatkan keamanan rumah, warung, serta lingungan anda dari bahaya pencurian.
+            <p>Tingkatkan keamanan rumah, warung, serta lingungan mu dari bahaya pencurian.
               Kami menawarkan solusi keamanan CCTV hingga 4K.
             </p>
           </div>
@@ -169,7 +169,7 @@ https://templatemo.com/tm-541-host-cloud
         <div class="col-md-8 offset-md-2">
           <div class="section-heading">
             <h2>Internet Plan</h2>
-            <p>Pilihan variasi kecepatan internet sesuai keinginan dan kebutuhan anda.</p>
+            <p>Pilihan variasi kecepatan internet sesuai keinginan dan kebutuhan mu.</p>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
@@ -241,8 +241,8 @@ https://templatemo.com/tm-541-host-cloud
       <div class="row">
         <div class="col-md-12">
           <div class="section-heading">
-            <span>Best Quality for you</span>
-            <h2>Cloud Features</h2>
+            <span>Kualitas Terbaik yang hadir untuk mu</span>
+            <h2>Fitur Kami</h2>
           </div>
         </div>
         <div class="col-md-6">
@@ -251,19 +251,20 @@ https://templatemo.com/tm-541-host-cloud
               <img src="assets/images/feature-01.png" alt="">
             </div>
             <h4>Load Balanced</h4>
-            <p>Nulla nisl ex, vehicula in urna nec, commodo consectetur augue. Vivamus nec metus mauris. Praesent lacinia tempus urna.</p>
+            <p>Metode primary dan backup untuk link pusat yang kami hadirkan untuk mu agar koneksi tetap lancar kapanpun
+              dan dalam keadaan apapun.</p>
           </div>
         </div>
-        <div class="col-md-6">
+        <!-- <div class="col-md-6">
           <div class="feature-item">
             <div class="icon">
               <img src="assets/images/feature-01.png" alt="">
             </div>
-            <h4>99.9% Uptime Guaranteed</h4>
-            <p>Lorem ipsum dolor ame taxidermy sriracha cardigan salvia actually vice migas en pin sustainable carry scenester.</p>
+            <h4>Stability</h4>
+            <p>Koneksi yang stabil dan efisien.</p>
           </div>
-        </div>
-        <div class="col-md-6">
+        </div> -->
+        <!-- <div class="col-md-6">
           <div class="feature-item">
             <div class="icon">
               <img src="assets/images/feature-01.png" alt="">
@@ -271,14 +272,14 @@ https://templatemo.com/tm-541-host-cloud
             <h4>Top Reliability</h4>
             <p>Lorem ipsum dolor ame taxidermy sriracha cardigan salvia actually vice migas en pin sustainable carry scenester.</p>
           </div>
-        </div>
+        </div> -->
         <div class="col-md-6">
           <div class="feature-item">
             <div class="icon">
               <img src="assets/images/feature-01.png" alt="">
             </div>
-            <h4>High Security</h4>
-            <p>Lorem ipsum dolor ame taxidermy sriracha cardigan salvia actually vice migas en pin sustainable carry scenester.</p>
+            <h4>Billing Sistem</h4>
+            <p>Billing sistem yang memudahkan kamu dalam melakukan pembayaran dan monitoring periode masa aktif paket mu.</p>
           </div>
         </div>
         <div class="col-md-6">
@@ -286,8 +287,8 @@ https://templatemo.com/tm-541-host-cloud
             <div class="icon">
               <img src="assets/images/feature-01.png" alt="">
             </div>
-            <h4>Quality Hardwares</h4>
-            <p>Lorem ipsum dolor ame taxidermy sriracha cardigan salvia actually vice migas en pin sustainable carry scenester.</p>
+            <h4>Kualitas Hardware</h4>
+            <p>Kami menggunakan hardware yang memumpuni untuk konektivitas rumah dan device.</p>
           </div>
         </div>
         <div class="col-md-6">
@@ -296,7 +297,7 @@ https://templatemo.com/tm-541-host-cloud
               <img src="assets/images/feature-01.png" alt="">
             </div>
             <h4>Network Solutions</h4>
-            <p>Lorem ipsum dolor ame taxidermy sriracha cardigan salvia actually vice migas en pin sustainable carry scenester.</p>
+            <p>Jaringan yang di dukung dengan teknologi fiber optik yang membuat konektivitas kamu makin terjaga dan stabil.</p>
           </div>
         </div>
       </div>

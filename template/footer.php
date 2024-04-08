@@ -7,21 +7,21 @@
               <div class="footer-heading">
                 <h2>About Us</h2>
               </div>
-              <p>Host Cloud is provided by TemplateMo for free of charge. Anyone can download and use this CSS Bootstrap template for commercial purposes.</p>
+              <p>Kami ada untuk kebutuhan internet rumah yang murah dan stabil.</p>
             </div>
           </div>
           
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="footer-item">
               <div class="footer-heading">
-                <h2>Hosting Plans</h2>
+                <h2>Product Plans</h2>
               </div>
               <ul class="footer-list">
-                <li><a href="#">Basic Cloud 5X</a></li>
-                <li><a href="#">Cloud VPS 10X</a></li>
-                <li><a href="#">Advanced Cloud</a></li>
-                <li><a href="#">Custom Designs</a></li>
-                <li><a href="#">Special Solutions</a></li>
+                <li><a href="#">Internet - Pla.X</a></li>
+                <li><a href="#">Internet - Pla.Y</a></li>
+                <li><a href="#">Internet - Pla.Z</a></li>
+                <li><a href="#">Support - CCTV</a></li>
+                <li><a href="#">Suppot Lain</a></li>
               </ul>
             </div>
           </div>
@@ -33,11 +33,11 @@
                 <h2>Useful Links</h2>
               </div>
               <ul class="footer-list">
-                <li><a href="#">Cloud Hosting Platform</a></li>
-                <li><a href="#">Light Speed Zone</a></li>
-                <li><a href="#">Content Delivery Network</a></li>
+                <li><a href="#">Internet Broadband</a></li>
+                <li><a href="#">Pemasangan CCTV</a></li>
+                <li><a href="#">Hotspot Area</a></li>
                 <li><a href="#">Customer Support</a></li>
-                <li><a href="#">Latest News</a></li>
+                <!-- <li><a href="#">Latest News</a></li> -->
               </ul>
             </div>
           </div>
@@ -48,16 +48,16 @@
                 <h2>More Information</h2>
               </div>
               <ul class="footer-list">
-                <li>Phone: <a href="#">010-020-0560</a></li>
-                <li>Email: <a href="#">mail@company.com</a></li>
-                <li>Support: <a href="#">support@company.com</a></li>
-                <li>Website: <a href="#">www.company.com</a></li>
+                <li>Phone: <a href="wa.me/6289637113802">+62 896-3711-3802</a></li>
+                <li>Email: <a href="mailto:info@planet-jakarta.my.id">info@planet-jakarta.my.id</a></li>
+                <li>Support: <a href="mailto:support@planet-jakarta.my.id">support@planet-jakarta.my.id</a></li>
+                <li>Website: <a href="https://planet-jakarta.my.id">www.planet-jakarta.my.id</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md-12">
             <div class="sub-footer">
-              <p>Copyright &copy; 2020 Cloud Hosting Company
+              <p>Copyright &copy; 2023 Pla.net - Jakarta
 				- Designed by <a rel="nofollow" href="https://templatemo.com">TemplateMo</a></p>
             </div>
           </div>
