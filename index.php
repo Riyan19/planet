@@ -40,7 +40,7 @@ https://templatemo.com/tm-541-host-cloud
     <!-- ***** Preloader End ***** -->
 
     <?php 
-    include "/template/header.php";
+    include "../template/header.php";
     ?>
 
     <!-- Page Content -->
