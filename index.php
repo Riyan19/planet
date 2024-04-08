@@ -39,7 +39,7 @@ https://templatemo.com/tm-541-host-cloud
     </div>  
     <!-- ***** Preloader End ***** -->
 
-    <php 
+    <?php 
     include "/template/header.php";
     ?>
 
