@@ -26,8 +26,8 @@
           </div>
           <div class="functional-buttons">
             <ul>
-              <li><a href="#">Log in</a></li>
-              <li><a href="#">Sign Up</a></li>
+              <li><a href="https://my.planet-jakarta.my.id/index.php?_route=login">Log in</a></li>
+              <li><a href="https://my.planet-jakarta.my.id/index.php?_route=register">Sign Up</a></li>
             </ul>
           </div>
         </div>
