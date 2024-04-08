@@ -126,7 +126,7 @@ https://templatemo.com/tm-541-host-cloud
             <h2>Layanan yang kami tawarkan</h2>
             <p>Pla.net adalah solusi internet rumah dengan harga yang terjangkau dan solusi praktis
               serta pengalaman teknis yang memumpuni karena didukung dengan teknisi professional berpengalaman.
-              
+
             </p>
           </div>
         </div>
@@ -174,14 +174,15 @@ https://templatemo.com/tm-541-host-cloud
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="pricing-item">
-            <h4>Pla.X</h4>
+            <h4>Pla.X - 10 Mbps</h4>
             <div class="price">
               <h6>Rp. 111.000</h6>
               <span>Per Bulan</span>
             </div>
-            <p>2-4 Perangkat.</p>
+            <p>Support 2-4 Perangkat.</p>
             <div class="dev"></div>
             <ul>
+              <li><i class="fa fa-check"></i><b>Bandwidth 10 Mbps</b></li>
               <li><i class="fa fa-check"></i>Unlimited Bandwidth</li>
               <li><i class="fa fa-check"></i>Tanpa FUP</li>
               <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
@@ -192,40 +193,38 @@ https://templatemo.com/tm-541-host-cloud
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="pricing-item">
-            <h4>Cloud VPS 10x</h4>
+            <h4>Pla.Y - 20Mbps</h4>
             <div class="price price-gradient">
-              <h6>$30.00</h6>
-              <span>monthly</span>
+              <h6>Rp. 186.000</h6>
+              <span>Per Bulan</span>
             </div>
-            <p>Etiam sit amet placerat lacus, sed placerat mauris. Vestibulum malesuada vehicula sapien non tempus.</p>
+            <p>Support 3-5 Perangkat</p>
             <div class="dev"></div>
             <ul>
-              <li><i class="fa fa-check"></i>1 TB Cloud Space</li>
-              <li><i class="fa fa-check"></i>8 TB Data Transfer</li>
-              <li><i class="fa fa-check"></i>Fully Managed Panel</li>
-              <li><i class="fa fa-check"></i>15-minute Quick Support</li>
-              <li><i class="fa fa-check"></i>Unlimted Web Addons</li>
-              <li><i class="fa fa-check"></i>Cancel or Upgrade Anytime</li>
+              <li><i class="fa fa-check"></i><b>Bandwidth 20 Mbps</b></li>
+              <li><i class="fa fa-check"></i>Unlimited Bandwidth</li>
+              <li><i class="fa fa-check"></i>Tanpa FUP</li>
+              <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
+              <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
             <a href="#" class="gradient-button">Select Plan</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="pricing-item">
-            <h4>Advanced Cloud</h4>
+            <h4>Pla.Z - 30Mbpps</h4>
             <div class="price">
-              <h6>$72.25</h6>
-              <span>monthly</span>
+              <h6>Rp. 236.000</h6>
+              <span>Per Bulan</span>
             </div>
-            <p>Etiam sit amet placerat lacus, sed placerat mauris. Vestibulum malesuada vehicula sapien non tempus.</p>
+            <p>Support 5-8 Perangkat</p>
             <div class="dev"></div>
             <ul>
-              <li><i class="fa fa-check"></i>4 TB Cloud Space</li>
-              <li><i class="fa fa-check"></i>20 TB Data Transfer</li>
-              <li><i class="fa fa-check"></i>Fully Managed Panel</li>
-              <li><i class="fa fa-check"></i>15-minute Quick Support</li>
-              <li><i class="fa fa-check"></i>Top Notch Web Apps</li>
-              <li><i class="fa fa-check"></i>Advanced Scalable</li>
+              <li><i class="fa fa-check"></i><b>Bandwidth 30 Mbps</b></li>
+              <li><i class="fa fa-check"></i>Unlimited Bandwidth</li>
+              <li><i class="fa fa-check"></i>Tanpa FUP</li>
+              <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
+              <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
             <a href="#" class="main-button">Take it now</a>
           </div>
