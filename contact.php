@@ -9,7 +9,7 @@
     <meta name="author" content="TemplateMo">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 
-    <title>Host Cloud Template - Contact Page</title>
+    <title>Pla.Net - Contact Page</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -99,20 +99,20 @@ https://templatemo.com/tm-541-host-cloud
             <div class="right-content">
               <div class="section-heading">
                 <span>Contact Us</span>
-                <h2>Let's keep in touch</h2>
-                <p>Quisque sagittis blandit sapien et elementum. Fusce pretium viverra consequat. Aliquam at feugiat mi. Pellentesque hendrerit, felis ac sodales commodo.</p>
+                <h2>Berikan Pertanyaan Anda</h2>
+                <p>Kami akan membantu menjawab pertanyaan anda dan apa yang anda inginkan serta bagaimana layanan kami berjalan.</p>
               </div>
               <div class="row">
                 <div class="col-md-6 col-sm-12">
                   <ul>
-                    <li><i class="fa fa-phone"></i> 010-020-0560</li>
-                    <li><i class="fa fa-support"></i> support@company.com</li>
+                    <li><i class="fa fa-phone"></i><a href="wa.me/6289637113802">+62 896-3711-3802</a></li>
+                    <li><i class="fa fa-support"></i> support@planet-jakarta.my.id</li>
                   </ul>
                 </div>
                 <div class="col-md-6 col-sm-12">
                   <ul>
-                    <li><i class="fa fa-envelope"></i> contact@company.com</li>
-                    <li><i class="fa fa-globe"></i> www.company.com</li>
+                    <li><i class="fa fa-envelope"></i> info@planet-jakarta.my.id</li>
+                    <li><i class="fa fa-globe"></i> planet-jakarta.my.id</li>
                   </ul>
                 </div>
               </div>
@@ -134,7 +134,8 @@ https://templatemo.com/tm-541-host-cloud
 	4. Copy only URL and paste it within the src="" field below
 -->
 
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11196.961132529668!2d-43.38581128725845!3d-23.011063013218724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sth!4v1568649412152!5m2!1sen!2sth" width="100%" height="520px" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11196.961132529668!2d-43.38581128725845!3d-23.011063013218724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bdb695cd967b7%3A0x171cdd035a6a9d84!2sAv.%20L%C3%BAcio%20Costa%20-%20Barra%20da%20Tijuca%2C%20Rio%20de%20Janeiro%20-%20RJ%2C%20Brazil!5e0!3m2!1sen!2sth!4v1568649412152!5m2!1sen!2sth" width="100%" height="520px" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+        <iframe src="https://maps.google.com/maps?q=-6.185011, 106.852203&z=15&output=embed" width="360" height="270" frameborder="0" style="border:0"></iframe>
     </div>
     <!-- Map Ends Here -->
 
