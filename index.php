@@ -56,12 +56,8 @@ https://templatemo.com/tm-541-host-cloud
         <!-- <div class="header-text"> -->
         <div class="col-6 main">
           <!-- <div class="container"> -->
-          <div class="map-container">
-            <div id="map"></div>
-          </div>
-          <div class="coordinates-container">
-            <h2 id="coordinates">Click on the map to get coordinates</h2>
-          </div>
+          <iframe src="https://maps.google.com/maps?q=-6.185011, 106.852203&z=15&output=embed" width="100%" height="520px" frameborder="0" style="border:0"></iframe>
+    
         </div>
         <div class="col-6">
           <h1 style="color: #ffff; margin-top:-100px;">Pla.net - Jakarta</h1> <br>
