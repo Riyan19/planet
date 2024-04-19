@@ -141,7 +141,7 @@ https://templatemo.com/tm-541-host-cloud
 
 
     <!-- Testimonials Starts Here -->
-    <div class="testimonials-section">
+    <!-- <div class="testimonials-section">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -180,7 +180,7 @@ https://templatemo.com/tm-541-host-cloud
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Testimonials Ends Here -->
     
     <?php 
