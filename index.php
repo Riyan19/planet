@@ -184,7 +184,7 @@ https://templatemo.com/tm-541-host-cloud
               <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
               <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
-            <a href="#" class="main-button">Start Plan</a>
+            <a href="https://my.planet-jakarta.my.id/index.php?_route=login" class="main-button">Start Plan</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
@@ -203,7 +203,7 @@ https://templatemo.com/tm-541-host-cloud
               <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
               <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
-            <a href="#" class="gradient-button">Select Plan</a>
+            <a href="https://my.planet-jakarta.my.id/index.php?_route=login" class="gradient-button">Select Plan</a>
           </div>
         </div>
         <div class="col-md-4 col-sm-6 col-xs-12">
@@ -222,7 +222,7 @@ https://templatemo.com/tm-541-host-cloud
               <li><i class="fa fa-check"></i>Fiber Optik Berkecepatan Tinggi</li>
               <li><i class="fa fa-check"></i>24/7 Support</li>
             </ul>
-            <a href="#" class="main-button">Take it now</a>
+            <a href="https://my.planet-jakarta.my.id/index.php?_route=login" class="main-button">Take it now</a>
           </div>
         </div>
       </div>
